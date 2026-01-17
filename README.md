@@ -1,6 +1,9 @@
 # 💫 About Me:
 
-I am a software builder who enjoys bringing coding ideas to life. Started with PHP in HTML executed through a browser without wi-fi access now we are here.
+I am a software builder who enjoys bringing coding ideas to life. 
+<br>
+Started with PHP in HTML executed through a browser without wi-fi access now we are here.
+<br>
 
 
 - 🔭 I’m currently working on Wotch (keeping in on the low for the moment but it's coming)
