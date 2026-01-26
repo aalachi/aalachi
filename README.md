@@ -6,11 +6,11 @@ Started with PHP in HTML executed through a browser without wi-fi access now we 
 <br>
 
 
-- 🔭 I’m currently working on Wotch (keeping in on the low for the moment but it's coming)
+- 🔭 I’m currently working on Rizm (a programming language written in C)
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on music (afro-jazz)
 - 🤔 I’m looking for help with accepting AI takeover over dev world
-- ⚡ Fun fact: I'm scheming an app that prints money for its users
+- ⚡ Keep It Simple And Stupid
 
 <br>
 
