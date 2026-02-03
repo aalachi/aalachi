@@ -12,7 +12,7 @@ I am a software builder who enjoys bringing code ideas to life.
 <br>
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/a3laxi)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UC2A26hYnRVkNp1vn1eWSeCg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mad.aalachi@gmail.com) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aalachilogs)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@aalachideployed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mad.aalachi@gmail.com) 
 
 
 <br>
