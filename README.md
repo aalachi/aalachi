@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-I am a software builder who enjoys bringing coding ideas to life. 
-<br>
-Started with PHP in HTML executed through a browser without wi-fi access now we are here.
-<br>
+I am a software builder who enjoys bringing code ideas to life.
 
 
 - 🔭 I’m currently working on Rizm (a programming language written in C)
